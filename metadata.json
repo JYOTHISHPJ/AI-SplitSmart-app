@@ -1,0 +1,5 @@
+{
+  "name": "Copy of SplitSmart",
+  "description": "An AI-powered bill splitting application. Upload a receipt, parse it automatically, and use a natural language chat interface to assign costs and split the bill among friends.",
+  "requestFramePermissions": []
+}
